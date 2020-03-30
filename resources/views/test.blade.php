@@ -25,6 +25,9 @@
                             <div class="well" style="height: 300px;overflow: auto">
                                 <div> online : <span id="online"></span></div>
                                 <hr>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minus nulla quas cupiditate doloribus enim, sed incidunt, laborum totam mollitia reprehenderit velit impedit veritatis. Vel voluptates consequatur sapiente doloremque pariatur.
+                                </p>
                                 <div id="onlineusers"></div>
                             </div>
                             <div class="well" id="channels"></div>
