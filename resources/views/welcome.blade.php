@@ -82,6 +82,9 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni sit natus corrupti pariatur, quas error nihil ratione. Praesentium, ducimus est, nesciunt repellendus odio maiores ea eos, ipsum aperiam itaque pariatur!
+                    </p>
                 </div>
 
                 <div class="links">
